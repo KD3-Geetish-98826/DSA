@@ -1,0 +1,14 @@
+package com.question3;
+
+public class LinkedList {
+	
+	public class Node{
+		int data;
+		Node next;
+		
+		public Node(int value) {
+			data = value;
+			
+		}
+	}
+}
